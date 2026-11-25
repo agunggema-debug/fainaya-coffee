@@ -10,7 +10,7 @@
 **Versi:** 1.1.0  
 **Status:** MVP / Production-Ready Development  
 
-**Faianaya Coffee** adalah platform *open-source* berbasis web modern yang dirancang untuk operasional kedai kopi tunggal maupun multi-cabang. Sistem ini mengintegrasikan seluruh alur bisnis F&B: **Point of Sale (POS)**, **Kitchen Display System (KDS)**, **Floor Plan & Meja**, **Katalog Menu & Resep (BOM)**, **Manajemen Pelanggan & Loyalty**, **Shift & Absensi Karyawan**, **Voucher Diskon**, serta **Akuntansi Terpadu** dalam antarmuka *Soft UI / Neumorphism*.
+**Fainaya Coffee** adalah platform *open-source* berbasis web modern yang dirancang untuk operasional kedai kopi tunggal maupun multi-cabang. Sistem ini mengintegrasikan seluruh alur bisnis F&B: **Point of Sale (POS)**, **Kitchen Display System (KDS)**, **Floor Plan & Meja**, **Katalog Menu & Resep (BOM)**, **Manajemen Pelanggan & Loyalty**, **Shift & Absensi Karyawan**, **Voucher Diskon**, serta **Akuntansi Terpadu** dalam antarmuka *Soft UI / Neumorphism*.
 
 ---
 
