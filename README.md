@@ -233,10 +233,22 @@ POST   /api/vouchers/validate       # Cek validitas kupon promo
 - **Strict DTO Validation**: Semua input disanitasi menggunakan `class-validator` dengan opsi `whitelist: true`.
 - **CORS Fleksibel**: Mengizinkan akses dari `localhost`, `127.0.0.1`, dan IP privat LAN (`192.168.x.x`, `10.x.x.x`, `172.16-31.x.x`).
 
----
 
 ## 📄 Lisensi
 
 Platform ini dirilis di bawah lisensi **MIT**. Bebas digunakan, dipelajari, dimodifikasi, dan disebarluaskan untuk kebutuhan komersial maupun non-komersial.
 
 Dibuat dengan ❤️ untuk kemajuan ekosistem F&B dan teknologi kedai kopi di Indonesia.
+
+
+---
+<img width="1771" height="892" alt="image" src="https://github.com/user-attachments/assets/b900aaae-c0bf-467c-9610-63d5fc41ec2e" />
+
+---
+<img width="1911" height="907" alt="image" src="https://github.com/user-attachments/assets/3563952c-23b2-49c0-9fdb-b15c4282e922" />
+
+---
+<img width="1900" height="901" alt="image" src="https://github.com/user-attachments/assets/f0f615af-ca4f-4de2-9a67-e6dc90493600" />
+
+---
+<img width="1912" height="902" alt="image" src="https://github.com/user-attachments/assets/b44a4ae5-5d99-4618-985d-aaaa05af7e4d" />
